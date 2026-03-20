@@ -75,4 +75,4 @@ print(top_task)  # Task(id=1, priority=10)
 
 **Shreya Rai**
 M.S. in Computer Science
-GitHub: [https://github.com/shreya200199](https://github.com/shreya200199)
+GitHub: https://github.com/ShreyaRai20/assignment-3-algorithms.git
